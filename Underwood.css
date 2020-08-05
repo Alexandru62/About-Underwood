@@ -1,0 +1,63 @@
+
+ *
+.profile-card {
+culoare de fundal: hsla (150, 120%, 50%, .4);
+}
+.head {
+culoare de fundal: hsla (140, 130%, 50%, .4);
+}
+.content {
+ culoare de fundal: hsla (120, 100%, 50%, .4);
+}
+.imagine de profil {
+ culoare de fundal: hsla (300, 100%, 50%, .4);
+}
+.name-headline {
+culoare de fundal: hsla (300, 100%, 50%, .4);
+}
+.despre {
+background-color: HSLA ((600,200%, 50% ,. 4);
+}
+.links {
+  culoare de fundal: hsla (300, 100%, 50%, .4);
+}
+÷ /
+/ * Resetare CSS * /
+* {
+  marja : 2 ;
+  căptușire : 15 ;
+  box-sizing : border-box;
+  dimensiune font : 100 % ;
+}
+corp {
+  inaltime : 100 vh;
+  afișare : flex;
+  align-items : centru;
+  justifica-continut : centru;
+   fundal : url ( 'http://i.imgur.com/Yexzll6.png' ) nu se repetă centrul central;
+  fundal-size : cover;
+}
+img : hover {
+  filtru : scară de gri ( 20 % );
+  transforma : scara ( 1.1 );
+}
+. card de profil {
+  culoare de fundal : hsla ( 0 ,  0 % ,  100 % ,  .5 );
+  rază de graniță : 4 px ;
+  box-shadow : hsla ( 0 ,  0 % ,  0 % ,  .8 ) 10 px  10 px  80 px ;
+}
+h1 ,  p ,  img {
+  margine-jos : 1 rem ;
+} h1 ,
+p {
+  aliniere text : centru;
+  font-family : sans-serif;
+  font-greutate : 300 ;
+	}
+/ * Link-uri de contact * /
+ul {
+  listă-tip de stil : nici unul;
+}
+li {
+  afișare : inline;
+}
